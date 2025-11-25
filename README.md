@@ -24,7 +24,7 @@ Federal contract spending steadily increased from FY2020 to FY2024, rising from 
 
 ### Which contractors receive the most federal funding?
 
-
+![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/7f25ffe01e57fa0a96ced690db8d4fc73f0b06b4/Image/Screenshot%202025-11-25%20181729.png)
 
 Federal contract spending is highly competitive, as shown by a very low HHI (0.0081).
 However, a few vendors consistently dominate due to the government’s reliance on:
