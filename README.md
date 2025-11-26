@@ -38,3 +38,50 @@ However, a few vendors consistently dominate due to the government’s reliance 
 Optum Public Sector Solutions emerges as the largest contractor starting FY2021, reflecting growth in federal health analytics, Medicare/Medicaid data systems, and VA healthcare management.
 
 Across FY2020-FY2024, health-related vendors receive the largest contract obligations, showing that public health, veterans’ services, and pandemic recovery remain top federal priorities.
+
+
+### What drives spending concentration in certain states or sectors?
+
+
+The choropleth map shows that states such as Virginia, Texas, California, Maryland, and Florida capture a disproportionate share of federal contract spending.
+
+1. Virginia (VA) leads even without DoD data
+
+Virginia remains the highest-spending state because:
+
+It hosts major federal contracting hubs in Northern Virginia (Arlington, Fairfax, Reston, Chantilly).
+
+Home to large contractors serving civilian agencies
+(e.g., Booz Allen, SAIC, Leidos, GDIT, Accenture Federal).
+
+Many contracts are for IT modernization, cybersecurity, logistics, and healthcare support.
+
+✔ Conclusion: Spending is concentrated where federal contractors are physically located.
+
+2. Texas (TX) and California (CA) also show significant spending
+
+These states contain:
+
+Major federal hospitals (VA medical centers)
+
+Large research laboratories (DOE & NIH grantees)
+
+Border security operations (DHS)
+
+Strong biotechnology & technology ecosystems
+
+✔ Conclusion: States with major infrastructure, medical facilities, or tech ecosystems naturally receive higher obligations.
+
+3. Rural or low-population states receive less
+
+States without:
+
+Large federal labs
+
+Advanced tech industries
+
+Major healthcare networks
+
+Federal logistics hubs
+
+tend to receive much smaller contract amounts.
