@@ -80,6 +80,67 @@ Large federal labs
 
 Advanced tech industries
 
+
+The sector bar chart highlights the Top 10 NAICS industries receiving the most federal funds.
+
+The biggest sectors include:
+
+Facilities Support Services
+
+Health and Medical Insurance Carriers
+
+Computer Systems Design Services
+
+Other Computer-Related Services
+
+Pharmaceutical & Medical Manufacturing
+
+Research & Development Services
+
+1. Healthcare dominates due to VA + HHS
+
+The federal government is the largest healthcare purchaser in the U.S., so spending is concentrated in:
+
+Medical supplies & pharmaceuticals
+
+Diagnostics & laboratory services
+
+Health insurance processing
+
+Hospital facility operations
+
+✔ Conclusion: Healthcare spending is structurally high because VA and HHS rely heavily on private contractors.
+
+2. IT Services rank among the top sectors
+
+Civilian agencies (Treasury, Commerce, HUD, Education, DHS, State) all require:
+
+Cybersecurity
+
+Cloud migration
+
+Data center operations
+
+Software development
+
+Network modernization
+
+✔ Conclusion: Federal IT modernization mandates drive massive spending in IT and computer-related services.
+
+3. Facility maintenance & construction are major recurring costs
+
+All federal agencies require:
+
+Building operations
+
+Laboratory upkeep
+
+Real estate services
+
+Infrastructure support
+
+✔ Conclusion: Facilities support is a large cost center across all agencies.
+
 Major healthcare networks
 
 Federal logistics hubs
