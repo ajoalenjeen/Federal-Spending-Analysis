@@ -216,33 +216,33 @@ Federal contract spending growth and volatility reveal which agencies pose the h
 
 Highest Growth Agencies
 
-HUD (+101%) — largest single-year explosion in spending.
+* HUD (+101%) — largest single-year explosion in spending.
 
-Education (+13.7%), VA (+8.4%), Energy (+6.5%) — strong consistent increases.
+* Education (+13.7%), VA (+8.4%), Energy (+6.5%) — strong consistent increases.
 
-Highest Volatility Agencies (Budget Risk)
+* Highest Volatility Agencies (Budget Risk)
 
-Veterans Affairs ($11.18B volatility) — healthcare, medical supply, hospital infrastructure.
+* Veterans Affairs ($11.18B volatility) — healthcare, medical supply, hospital infrastructure.
 
-Energy ($4.95B) — large-scale R&D, national labs, nuclear programs.
+* Energy ($4.95B) — large-scale R&D, national labs, nuclear programs.
 
-Homeland Security ($2.19B) — disaster response and emergency spikes.
+* Homeland Security ($2.19B) — disaster response and emergency spikes.
 
-Interior ($1.71B) — fire management, environmental emergencies.
+* Interior ($1.71B) — fire management, environmental emergencies.
 
-HHS ($1.57B) — massive pandemic-related fluctuations.
+* HHS ($1.57B) — massive pandemic-related fluctuations.
 
 Most At-Risk Agencies (Combined Growth + Volatility)
 
-HUD — extreme growth + emerging instability
+* HUD — extreme growth + emerging instability
 
-Education — early signs of sharp spending increase
+* Education — early signs of sharp spending increase
 
-Veterans Affairs — high volatility + strong growth
+* Veterans Affairs — high volatility + strong growth
 
-Energy — large infrastructure-driven risk
+* Energy — large infrastructure-driven risk
 
-Commerce — rising spending + medium volatility
+* Commerce — rising spending + medium volatility
 
 Conclusion:
 HUD and VA emerge as the agencies with the highest spending expansion and volatility, making them the primary sources of budget risk in the 2020–2024 contracting landscape.
