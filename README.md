@@ -186,8 +186,8 @@ Infrastructure support
 
 ##  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
 
-Total Federal Spending: $1,138.24B
-Total Federal Spending: $5,570.54B
+* Total Federal Spending: $1,138.24B
+* Total Federal Spending: $5,570.54B
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/10f0a4e9eea851bf32544006945bb8dd53eb3268/Image/Screenshot%202025-11-26%20161315.png)
 
@@ -195,22 +195,15 @@ Federal grants vastly outweigh contracts in total spending, representing more th
 
 However, when comparing recipient concentration:
 
-Contracts (HHI = 0.0081) are moderately concentrated. A few major defense, healthcare, and research contractors dominate (e.g., Optum, McKesson, TriWest, National Labs).
+* Contracts (HHI = 0.0081) are moderately concentrated. A few major defense, healthcare, and research contractors dominate (e.g., Optum, McKesson, TriWest, National Labs).
 
-Grants (HHI = 0.01499) are even more concentrated in this dataset. A relatively small number of large state governments, universities, and tribal authorities receive a disproportionate share of total grant dollars.
+* Grants (HHI = 0.01499) are even more concentrated in this dataset. A relatively small number of large state governments, universities, and tribal authorities receive a disproportionate share of total grant dollars.
 
 Conclusion:
 
 Even though grants represent far more total dollars, both contracts and grants show measurable concentration — but grants are more concentrated than contracts in this dataset. This suggests much of federal grant money flows to a smaller number of very large public-sector and nonprofit institutions.
 
-Major healthcare networks
-
-Federal logistics hubs
-
-tend to receive much smaller contract amounts.
-
 ## Which agencies show the highest spending growth or budget risk?
-
 
 Federal contract spending growth and volatility reveal which agencies pose the highest budget risk between FY 2020–2024.
 
