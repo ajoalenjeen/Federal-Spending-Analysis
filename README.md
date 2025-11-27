@@ -7,6 +7,38 @@ This project investigates where U.S. federal money goes, which agencies and cont
 
 The analysis is based on ~2.5M+ federal contract and grant records downloaded from USAspending.gov.
 
+Agencies Included in This Analysis
+
+The project analyzes federal contract spending (2020–2024) across the following 14 awarding agencies:
+
+* Department of Veterans Affairs (VA)
+
+* Department of Energy (DOE)
+
+* Department of Health and Human Services (HHS)
+
+* Department of Homeland Security (DHS)
+
+* Department of State (DOS)
+
+* Department of Agriculture (USDA)
+  
+* Department of Justice (DOJ)
+
+* Department of the Treasury
+
+* Department of Transportation (DOT)
+
+* Department of the Interior (DOI)
+
+* Department of Commerce (DOC)
+
+* Department of Education (ED)
+
+* Department of Labor (DOL)
+
+* Department of Housing and Urban Development (HUD)
+
 # Dataset:
 https://www.usaspending.gov/search?hash=0f5d91bedf605af1660a7326fd87a92f
 
