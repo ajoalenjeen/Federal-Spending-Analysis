@@ -186,8 +186,8 @@ All federal agencies require:
 
 ##  How do contracts compare to grants in terms of dollar amounts and recipient concentration?
 
-* Total Federal Spending: $1,138.24B
-* Total Federal Spending: $5,570.54B
+* Total Federal Spending (Contract): $1,138.24B
+* Total Federal Spending (Grants): $5,570.54B
 
 ![image alt](https://github.com/ajoalenjeen/Federal-Spending-Analysis/blob/10f0a4e9eea851bf32544006945bb8dd53eb3268/Image/Screenshot%202025-11-26%20161315.png)
 
