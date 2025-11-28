@@ -7,7 +7,7 @@ This project investigates where U.S. federal money goes, which agencies and cont
 
 The analysis is based on ~2.5M+ federal contract and grant records downloaded from USAspending.gov.
 
-Agencies Included in This Analysis
+#### Agencies Included in This Analysis:
 
 The project analyzes federal contract spending (2020–2024) across the following 14 awarding agencies:
 
